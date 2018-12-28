@@ -20,6 +20,7 @@ In order to determine which articles to show to each user, I perform a study of 
 - User based collaborative filtering recommendation
 - Content based recommendation
 - Matrix Factorization recommendation
+
 I build out a content based recommendation system using the NLP skills.  And the above recommendations are used in the different situations and they are combined a whole solution. Finally I move the notebook into a web application, and blend codes into a class that can be easily used with a web application.
 
 ## 3. File Descriptions
