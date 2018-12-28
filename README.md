@@ -67,16 +67,17 @@ I build out a content based recommendation system using the NLP skills.  And the
          -  recommendation_app.py invokes rec_app.__init__.py  and listen on 0.0.0.0:3001
          -  rec_app.__init__.py invokes rec_app.run.py to response web request.
 
-     3. The web application address is :(replace 127.0.0.1 to your ip)
+     3. The web application address is : 
 
-        https://recommendation-ibm-webapp.herokuapp.com/
-        
+        - https://recommendation-ibm-webapp.herokuapp.com/
+
+
      4. The web page will show as follows:
        - Input Window：
- ![GUI1](https://github.com/bin-wang-sh/Recommendation_with_IBM_Webapp/blob/master/IBM_1.jpg.jpg 'Input window')
+ ![GUI1](https://github.com/bin-wang-sh/Recommendation_with_IBM_Webapp/blob/master/IBM_1.jpg 'Input window')
 
        - Result Window：
-![GUI2](https://github.com/bin-wang-sh/Recommendation_with_IBM_Webapp/blob/master/IBM_2.jpg.jpg 'Result window')
+![GUI2](https://github.com/bin-wang-sh/Recommendation_with_IBM_Webapp/blob/master/IBM_2.jpg 'Result window')
 
 
 
