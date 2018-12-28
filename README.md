@@ -57,8 +57,10 @@ I build out a content based recommendation system using the NLP skills.  And the
        -  templates\
           -  go.html
           -  master.html
-## 4. Web  web application link:
-             - https://recommendation-ibm-webapp.herokuapp.com/
+
+## 4. Web Application Link:
+
+- https://recommendation-ibm-webapp.herokuapp.com/
 
 ## 5.Instructions:
 
