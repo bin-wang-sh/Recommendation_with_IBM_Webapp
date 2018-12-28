@@ -59,6 +59,8 @@ I build out a content based recommendation system using the NLP skills.  And the
 
 ## 4.Instructions:
 
+ -  The web application is :  https://recommendation-ibm-webapp.herokuapp.com/
+
      1. Deploy all files under the web_app directory to web application server.
 
      2. The web server run the recommendation by the following steps:
@@ -67,12 +69,7 @@ I build out a content based recommendation system using the NLP skills.  And the
          -  recommendation_app.py invokes rec_app.__init__.py  and listen on 0.0.0.0:3001
          -  rec_app.__init__.py invokes rec_app.run.py to response web request.
 
-     3. The web application address is : 
-
-        - https://recommendation-ibm-webapp.herokuapp.com/
-
-
-     4. The web page will show as follows:
+     3. The web page will show as follows:
        - Input Window：
  ![GUI1](https://github.com/bin-wang-sh/Recommendation_with_IBM_Webapp/blob/master/IBM_1.jpg 'Input window')
 
