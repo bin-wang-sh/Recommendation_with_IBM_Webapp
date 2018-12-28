@@ -53,7 +53,7 @@ I build out a content based recommendation system using the NLP skills.  And the
        -  ucfrecommender.py
     - rec_app\
        -  run.py
-       -  __init__.py
+       -  \__init__.py
        -  templates\
           -  go.html
           -  master.html
