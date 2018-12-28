@@ -4,7 +4,6 @@
 I use python 3.5 to create this project and the main libraries I used are:
 - Flask==1.0.2
 - gunicorn==19.9.0
-- matplotlib==3.0.2
 - numpy==1.15.4
 - pandas==0.23.4
 - plotly==3.4.2
@@ -31,15 +30,16 @@ I build out a content based recommendation system using the NLP skills.  And the
    - Recommendations_with_IBM.ipynb
    - project_tests.py
    - user_item_matrix.p
+   - requirements.txt
    - data\
      - articles_community.csv
-      - user-item-interactions.csv
+     - user-item-interactions.csv
    - web_app\
      -  Procfile
      -  recommendation
      -  recommendation_app.py
      -  rec_app
-     -  requirement.txt
+     -  requirements.txt
      - data\
        -  articles_community.csv
        -  user-item-interactions.csv
@@ -57,10 +57,10 @@ I build out a content based recommendation system using the NLP skills.  And the
        -  templates\
           -  go.html
           -  master.html
+## 4. Web  web application link:
+             - https://recommendation-ibm-webapp.herokuapp.com/
 
-## 4.Instructions:
-
- -  The web application is :  https://recommendation-ibm-webapp.herokuapp.com/
+## 5.Instructions:
 
      1. Deploy all files under the web_app directory to web application server.
 
@@ -76,12 +76,6 @@ I build out a content based recommendation system using the NLP skills.  And the
 
        - Result Window：
 ![GUI2](https://github.com/bin-wang-sh/Recommendation_with_IBM_Webapp/blob/master/IBM_2.jpg 'Result window')
-
-
-
-
-## 5. GitHub link:
-   - https://github.com/bin-wang-sh/Recommendation_with_IBM_Webapp
 
 ## 6. Licensing, Author, Acknowledgements
 This work is licensed under a [Creative Commons  Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/). Please refer to [Udacity Terms of Service](https://www.udacity.com/legal) for further information.
